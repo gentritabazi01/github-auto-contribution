@@ -11,7 +11,7 @@
 * Open **CMD** from your repository folder and write **php -f auto-contribution.php**.
 
 ### Requirements
-* PHP > 4
+* PHP > 5
 
 ### Author
 * Name: **Gentrit Abazi**
